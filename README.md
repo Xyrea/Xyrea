@@ -4,7 +4,7 @@ Xyrea || Xyra || Xeyra
 
 <p align="center">
 <kbd>
-Graphic design & programming
+Graphic design & programming<br>
 Discord: Xyra#1565
 </kbd>
 </p>
