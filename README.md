@@ -11,11 +11,11 @@ Discord: Xyra#1565
 
 ---
 
-## Repos
+## Repositories // Topics
 
-#### [Triggerbot Guide](https://github.com/Xyrea/Valorant-Triggerbot-Guide)
-#### [Aimbot Guide](https://github.com/Xyrea/Valorant-Color-Aimbot-Guide)
-#### [LW VEX V2 Installation](https://github.com/Xyrea/LW-VEX-V2-Installation-Guide)
-#### [LW VESP Installation](https://github.com/Xyrea/LW-VESP-Installation-Guide)
-
-
+| Make your own cheat | LW Installation Guides |
+| --- | --- |
+| [Aimbot](https://github.com/Xyrea/Valorant-Color-Aimbot-Guide) | [External](https://github.com/Xyrea/LW-VEX-Installation-Guide) |
+| [Triggerbot](https://github.com/Xyrea/Valorant-Triggerbot-Guide) | [External V2](https://github.com/Xyrea/LW-VEX-V2-Installation-Guide) |
+| | [ESP](https://github.com/Xyrea/LW-VESP-Installation-Guide) |
+| | [Triggerbot](https://github.com/Xyrea/LW-TB-Installation-Guide) |
