@@ -11,11 +11,23 @@ Discord: Xyra#1565
 
 ---
 
-## Repositories // Topics
+## How to: Make your own cheat
 
-| Make your own cheat | LW Installation Guides |
-| --- | --- |
-| [Aimbot](https://github.com/Xyrea/Valorant-Color-Aimbot-Guide) | [External](https://github.com/Xyrea/LW-VEX-Installation-Guide) |
-| [Triggerbot](https://github.com/Xyrea/Valorant-Triggerbot-Guide) | [External V2](https://github.com/Xyrea/LW-VEX-V2-Installation-Guide) |
-| | [ESP](https://github.com/Xyrea/LW-VESP-Installation-Guide) |
-| | [Triggerbot](https://github.com/Xyrea/LW-TB-Installation-Guide) |
+**Aimbot:**
+> https://github.com/Xyrea/Valorant-Color-Aimbot-Guide
+
+**Triggerbot:**
+> https://github.com/Xyrea/Valorant-Triggerbot-Guide
+
+---
+
+## How to: Install Lunaware
+
+**External:**
+> https://github.com/Xyrea/LW-VEX-Installation-Guide
+
+**External V2:**
+> https://github.com/Xyrea/LW-VEX-V2-Installation-Guide
+
+**ESP:**
+> https://github.com/Xyrea/LW-VESP-Installation-Guide
